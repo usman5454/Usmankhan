@@ -123,7 +123,7 @@ logo4 = """
 \033[1;95m║╚═╝║║╚═╝║║║║║║║║╔═╗║║║─║║║
 \033[1;95m╚═══╝╚═══╝╚╝╚╝╚╝╚╝─╚╝╚╝─╚═╝
 
-\033[1;91m--> GITHUB :- https://github.com/Usman Tech
+\033[1;91m--> GITHUB :- https://github.com/Usman5454
 
 \033[1;92m--> FACEBOOK :- Usman Shehbaz
 
@@ -161,7 +161,7 @@ logo6 = """
 \033[1;95m║╚═╝║║╚═╝║║║║║║║║╔═╗║║║─║║║
 \033[1;95m╚═══╝╚═══╝╚╝╚╝╚╝╚╝─╚╝╚╝─╚═╝
 
-\033[1;91m--> GITHUB :- https://github.com/5454
+\033[1;91m--> GITHUB :- https://github.com/Usman5454
 
 \033[1;92m--> FACEBOOK :- Usman Shehbaz
 
@@ -180,7 +180,7 @@ logo7 = """
 \033[1;96m║╚═╝║║╚═╝║║║║║║║║╔═╗║║║─║║║
 \033[1;96m╚═══╝╚═══╝╚╝╚╝╚╝╚╝─╚╝╚╝─╚═╝
 
-\033[1;91m--> GITHUB :- https://github.com/5454
+\033[1;91m--> GITHUB :- https://github.com/Usman5454
 
 \033[1;92m--> FACEBOOK :- Usman Shehbaz
 
@@ -199,7 +199,7 @@ logo8 = """
 \033[1;97m║╚═╝║║╚═╝║║║║║║║║╔═╗║║║─║║║
 \033[1;97m╚═══╝╚═══╝╚╝╚╝╚╝╚╝─╚╝╚╝─╚═╝
 
-\033[1;91m--> GITHUB :- https://github.com/5454
+\033[1;91m--> GITHUB :- https://github.com/Usman5454
 
 \033[1;92m--> FACEBOOK :- Usman Shehbaz
 
@@ -218,7 +218,7 @@ logo11 = """
 \033[1;94m║╚═╝║║╚═╝║║║║║║║║╔═╗║║║─║║║
 \033[1;94m╚═══╝╚═══╝╚╝╚╝╚╝╚╝─╚╝╚╝─╚═╝
 
-\033[1;91m--> GITHUB :- https://github.com/5454
+\033[1;91m--> GITHUB :- https://github.com/Usman5454
 
 \033[1;92m--> FACEBOOK :- Usman Shehbaz
 
@@ -240,7 +240,7 @@ logo12 = """
 \033[1;93m║╚═╝║║╚═╝║║║║║║║║╔═╗║║║─║║║
 \033[1;93m╚═══╝╚═══╝╚╝╚╝╚╝╚╝─╚╝╚╝─╚═╝
 
-\033[1;91m--> GITHUB :- https://github.com/5454
+\033[1;91m--> GITHUB :- https://github.com/Usman5454
 
 \033[1;92m--> FACEBOOK :- Usman Shehbaz
 
@@ -259,7 +259,7 @@ logo13 = """
 \033[1;93m║╚═╝║║╚═╝║║║║║║║║╔═╗║║║─║║║
 \033[1;93m╚═══╝╚═══╝╚╝╚╝╚╝╚╝─╚╝╚╝─╚═╝
 
-\033[1;91m--> GITHUB :- https://github.com/5454
+\033[1;91m--> GITHUB :- https://github.com/Usman5454
 
 \033[1;92m--> FACEBOOK :- Usman Shehbaz
 
@@ -278,7 +278,7 @@ logo14 = """
 \033[1;93m║╚═╝║║╚═╝║║║║║║║║╔═╗║║║─║║║
 \033[1;93m╚═══╝╚═══╝╚╝╚╝╚╝╚╝─╚╝╚╝─╚═╝
 
-\033[1;91m--> GITHUB :- https://github.com/5454
+\033[1;91m--> GITHUB :- https://github.com/Usman5454
 
 \033[1;92m--> FACEBOOK :- Usman Shehbaz
 
@@ -297,7 +297,7 @@ logo15 = """
 \033[1;93m║╚═╝║║╚═╝║║║║║║║║╔═╗║║║─║║║
 \033[1;93m╚═══╝╚═══╝╚╝╚╝╚╝╚╝─╚╝╚╝─╚═╝
 
-\033[1;91m--> GITHUB :- https://github.com/5454
+\033[1;91m--> GITHUB :- https://github.com/Usman5454
 
 \033[1;92m--> FACEBOOK :- Usman Shehbaz
 
@@ -316,7 +316,7 @@ logo16 = """
 \033[1;93m║╚═╝║║╚═╝║║║║║║║║╔═╗║║║─║║║
 \033[1;93m╚═══╝╚═══╝╚╝╚╝╚╝╚╝─╚╝╚╝─╚═╝
 
-\033[1;91m--> GITHUB :- https://github.com/5454
+\033[1;91m--> GITHUB :- https://github.com/Usman5454
 
 \033[1;92m--> FACEBOOK :- Usman Shehbaz
 
@@ -335,7 +335,7 @@ logo17 = """
 \033[1;93m║╚═╝║║╚═╝║║║║║║║║╔═╗║║║─║║║
 \033[1;93m╚═══╝╚═══╝╚╝╚╝╚╝╚╝─╚╝╚╝─╚═╝
 
-\033[1;91m--> GITHUB :- https://github.com/5454
+\033[1;91m--> GITHUB :- https://github.com/Usman5454
 
 \033[1;92m--> FACEBOOK :- Usman Shehbaz
 
@@ -354,7 +354,7 @@ logo18 = """
 \033[1;93m║╚═╝║║╚═╝║║║║║║║║╔═╗║║║─║║║
 \033[1;93m╚═══╝╚═══╝╚╝╚╝╚╝╚╝─╚╝╚╝─╚═╝
 
-\033[1;91m--> GITHUB :- https://github.com/5454
+\033[1;91m--> GITHUB :- https://github.com/Usman5454
 
 \033[1;92m--> FACEBOOK :- Usman Shehbaz
 
@@ -373,7 +373,7 @@ logo19 = """
 \033[1;93m║╚═╝║║╚═╝║║║║║║║║╔═╗║║║─║║║
 \033[1;93m╚═══╝╚═══╝╚╝╚╝╚╝╚╝─╚╝╚╝─╚═╝
 
-\033[1;91m--> GITHUB :- https://github.com/5454
+\033[1;91m--> GITHUB :- https://github.com/Usman5454
 
 \033[1;92m--> FACEBOOK :- Usman Shehbaz
 
@@ -392,7 +392,7 @@ logo20 = """
 \033[1;93m║╚═╝║║╚═╝║║║║║║║║╔═╗║║║─║║║
 \033[1;93m╚═══╝╚═══╝╚╝╚╝╚╝╚╝─╚╝╚╝─╚═╝
 
-\033[1;91m--> GITHUB :- https://github.com/5454
+\033[1;91m--> GITHUB :- https://github.com/Usman5454
 
 \033[1;92m--> FACEBOOK :- Usman Shehbaz
 
@@ -411,7 +411,7 @@ logo21 = """
 \033[1;93m║╚═╝║║╚═╝║║║║║║║║╔═╗║║║─║║║
 \033[1;93m╚═══╝╚═══╝╚╝╚╝╚╝╚╝─╚╝╚╝─╚═╝
 
-\033[1;91m--> GITHUB :- https://github.com/5454
+\033[1;91m--> GITHUB :- https://github.com/Usman5454
 
 \033[1;92m--> FACEBOOK :- Usman Shehbaz
 
@@ -430,7 +430,7 @@ logo22 = """
 \033[1;93m║╚═╝║║╚═╝║║║║║║║║╔═╗║║║─║║║
 \033[1;93m╚═══╝╚═══╝╚╝╚╝╚╝╚╝─╚╝╚╝─╚═╝
 
-\033[1;91m--> GITHUB :- https://github.com/5454
+\033[1;91m--> GITHUB :- https://github.com/Usman5454
 
 \033[1;92m--> FACEBOOK :- Usman Shehbaz
 
@@ -449,7 +449,7 @@ logo23 = """
 \033[1;93m║╚═╝║║╚═╝║║║║║║║║╔═╗║║║─║║║
 \033[1;93m╚═══╝╚═══╝╚╝╚╝╚╝╚╝─╚╝╚╝─╚═╝
 
-\033[1;91m--> GITHUB :- https://github.com/5454
+\033[1;91m--> GITHUB :- https://github.com/Usman5454
 
 \033[1;92m--> FACEBOOK :- Usman Shehbaz
 
@@ -468,7 +468,7 @@ logo24 = """
 \033[1;93m║╚═╝║║╚═╝║║║║║║║║╔═╗║║║─║║║
 \033[1;93m╚═══╝╚═══╝╚╝╚╝╚╝╚╝─╚╝╚╝─╚═╝
 
-\033[1;91m--> GITHUB :- https://github.com/5454
+\033[1;91m--> GITHUB :- https://github.com/Usman5454
 
 \033[1;92m--> FACEBOOK :- Usman Shehbaz
 
@@ -488,7 +488,7 @@ logo25 = """
 \033[1;93m║╚═╝║║╚═╝║║║║║║║║╔═╗║║║─║║║
 \033[1;93m╚═══╝╚═══╝╚╝╚╝╚╝╚╝─╚╝╚╝─╚═╝
 
-\033[1;91m--> GITHUB :- https://github.com/5454
+\033[1;91m--> GITHUB :- https://github.com/Usman5454
 
 \033[1;92m--> FACEBOOK :- Usman Shehbaz
 
